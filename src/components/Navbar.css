@@ -1,0 +1,14 @@
+.nav{
+    background-image: url('');
+}
+
+a{
+    margin: auto!important;
+}
+
+@media (max-width : 500px){
+    .nav{
+        height: 100%;
+        background-image: url('../images/37130.jpg');
+    }
+}
